@@ -1,13 +1,12 @@
 {
-  "name": "FirstWebApp",
+  "name": "middlewareDemo",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "scripts": {
-    "script" :"node index.js" 
+  "repository": "https://github.com/Kirillakrill/middlewareDemo.git",
+  "author": "Kirillakrill <akrillsm9003@gmail.com>",
+  "license": "MIT",
+  "scripts":{
+    "start":"node index.js" 
   },
   "dependencies": {
     "express": "^4.17.1",
